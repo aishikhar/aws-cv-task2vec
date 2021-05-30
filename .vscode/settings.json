@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/home/ss2/miniconda3/envs/remind_proj/bin/python",
+    "python.pythonPath": "/nfs/users/ext_shikhar.srivastava/miniconda3/envs/avalanche-dev-env/bin/python",
     "jupyter.jupyterServerType": "local"
 }
